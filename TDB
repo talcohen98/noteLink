@@ -1,0 +1,9 @@
+USER AND guests approved actions
+tests
+React prefetch
+THEORETICAL QUESTIONS
+Move the frontent to a next.js structure
+Add Playwright testing library.(tests are under the tests library, see the example Playwright adds to your project)
+add another test that fails,
+
+Playright - how to call the folder - test/tests?
