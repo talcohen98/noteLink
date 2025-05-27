@@ -34,7 +34,7 @@ MONGODB_CONNECTION_URL=your_mongodb_connection_url
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NoteLink.git
+   git clone https://github.com/talcohen98/NoteLink.git
    cd NoteLink
    ```
 
